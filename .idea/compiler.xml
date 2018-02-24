@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AureaMediocritas" />
+        <module name="Aurea_Mediocritas" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AureaMediocritas" target="1.7" />
+      <module name="Aurea_Mediocritas" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

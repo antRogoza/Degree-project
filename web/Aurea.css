@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+
+#header{
+    float:left;
+    background-color: #eb8d06;
+    width: 100%;
+    /*width: 99.4%;*/
+    /*padding: 0.3%;*/
+    color: #000000;
+    border-bottom: 3px solid #000000;
+    height: 7%;
+}
+
+#logo-text{
+    font-family: 'Pacifico', cursive;
+    font-size: 22px;
+    float: left;
+}
+#logo {
+    margin: 5px 10px 0 15px;
+    float: left;
+
+}
+#list {
+    color: #eb8d06;
+    float: right;
+    margin: 10px 15px 0 0;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    /*background-color: antiquewhite;*/
+}
+
+#body{
+    height: 100%;
+    background-color: #fdecce;
+}
+
+#left-side{
+    /*margin: 0.5% 0.25% 0 0.5%;*/
+    background-color: #fdecce;
+    float: left;
+    /*width: 38.5% ;*/
+    width: 39%;
+    height: 90%;
+    margin: 0.5%;
+}
+
+#right-side{
+    /*margin: 0.5% 0.5% 0 0.25%;*/
+    /*background-color: antiquewhite;*/
+    float: left;
+    width: 59%;
+    height: 90%;
+    margin: 0.5%;
+    color: black;
+
+}
+
+#map{
+    background-color: burlywood;
+    float: top;
+    height: 59%;
+    margin: 0.5%;
+}
+
+#info{
+    background-color: white;
+    float: top;
+    height: 29%;
+    margin: 0.5%;
+    border: 1px solid black;
+    border-radius: 20px 20px 0 0;}
+
+#grups{
+    float: top;
+    background-color: crimson;
+    /*margin: 1%;*/
+    height: 15%;
+    border-bottom: 2px solid #000000;
+}
+
+#message-button{
+    float: top;
+    background-color: cornflowerblue;
+    height: 65%;
+}
+
+#grup-members{
+    float: top;
+    background-color: chartreuse;
+    height: 10%;
+}
+
+#message-box{
+    float: top;
+    background-color: darkkhaki;
+    height: 10%;
+}
