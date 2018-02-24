@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e93c2e20-6c0a-4e0d-91a9-35bc9585bb06" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e93c2e20-6c0a-4e0d-91a9-35bc9585bb06" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,21 +63,21 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="238">
+              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding>
-                <marker date="1519477708540" expanded="true" signature="53793:54054" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="53793:54069" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="53793:54462" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="53793:54477" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="53856:54034" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="53896:54000" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="53917:53978" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="54121:54448" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="54140:54433" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="54235:54413" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="54275:54379" ph="..." />
-                <marker date="1519477708540" expanded="true" signature="54296:54357" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53652:53913" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53652:53928" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53652:54321" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53652:54336" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53715:53893" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53755:53859" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53776:53837" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53980:54307" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="53999:54292" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="54094:54272" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="54134:54238" ph="..." />
+                <marker date="1519477916370" expanded="true" signature="54155:54216" ph="..." />
               </folding>
             </state>
           </provider>
@@ -100,7 +98,7 @@
       <file leaf-file-name="Aurea_Mediocritas.iml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Aurea_Mediocritas.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="395">
               <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
               <folding />
             </state>
@@ -210,7 +208,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -490,15 +488,15 @@
       <workItem from="1519471596725" duration="21000" />
       <workItem from="1519474450352" duration="7000" />
       <workItem from="1519474537566" duration="1246000" />
-      <workItem from="1519477102222" duration="617000" />
+      <workItem from="1519477102222" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74952000" />
+    <option name="totallyTimeSpent" value="75225000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -512,7 +510,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33280757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33280757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -833,21 +831,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="238">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
-            <marker date="1519477708540" expanded="true" signature="53793:54054" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="53793:54069" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="53793:54462" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="53793:54477" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="53856:54034" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="53896:54000" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="53917:53978" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="54121:54448" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="54140:54433" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="54235:54413" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="54275:54379" ph="..." />
-            <marker date="1519477708540" expanded="true" signature="54296:54357" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53652:53913" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53652:53928" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53652:54321" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53652:54336" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53715:53893" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53755:53859" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53776:53837" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53980:54307" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="53999:54292" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="54094:54272" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="54134:54238" ph="..." />
+            <marker date="1519477916370" expanded="true" signature="54155:54216" ph="..." />
           </folding>
         </state>
       </provider>
@@ -906,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Aurea_Mediocritas.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="395">
           <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
           <folding />
         </state>
